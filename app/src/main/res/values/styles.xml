@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- res/values/styles.xml -->
+
+    <style name="NewButtonStyle">
+
+        <item name="android:background">@color/white</item>
+        <!-- Thêm các thuộc tính chung khác mà bạn muốn áp dụng cho các button mới ở đây -->
+    </style>
+
+</resources>
